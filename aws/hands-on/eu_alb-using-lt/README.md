@@ -1,3 +1,4 @@
+
 # Hands-on EC2-06 : Working with Application Load Balancer (ALB) using a Launch Template
 
 Purpose of this hands-on training is to learn Application Load Balancer (ALB) working process. Especially, we’ll cover the details of the AWS solution suite and walk through how to set up a basic ALB.
