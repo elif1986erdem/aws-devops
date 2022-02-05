@@ -1,4 +1,3 @@
-
 # Hands-on CW-01 : Setting Cloudwatch Alarm Events, and Logging
 
 Purpose of the this hands-on training is to create Dashboard, Cloudwatch Alarm, configure Events option and set Logging up.
