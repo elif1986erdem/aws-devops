@@ -1,5 +1,6 @@
 # Clarusway AWS & DevOps EU Cohort 4/20 Workshop
 
+
 This private workshop repository contains projects, hands-on training, coding challenges, and class-notes for the Clarusway Students of AWS & DevOps EU Cohort 4/20.
 
 ## Description
