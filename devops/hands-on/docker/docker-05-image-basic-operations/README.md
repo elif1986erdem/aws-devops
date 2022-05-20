@@ -1,3 +1,4 @@
+
 # Hands-on Docker-05 : Docker Image Basic Operations
 
 Purpose of the this hands-on training is to give the students understanding to images in Docker.
