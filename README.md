@@ -1,4 +1,3 @@
-
 # AWS & DevOps EU Cohort 4/20 Workshop
 
 
