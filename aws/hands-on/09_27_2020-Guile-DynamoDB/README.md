@@ -1,4 +1,3 @@
-
 ## Part 1 - Creating DynamoDB Tables
 
 ### Step 1 : Create Product Catalog Table
